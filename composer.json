@@ -6,10 +6,14 @@
         {
             "name": "Tomas Gerulaitis",
             "email": "tomas.gerulaitis@meanbee.com"
+        },
+        {
+            "name": "Adam Paterson",
+            "email": "hello@adampaterson.co.uk"
         }
     ],
     "require": {
-        "anahkiasen/rocketeer": "3.0.*@dev"
+        "anahkiasen/rocketeer": "^2.2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
